@@ -89,3 +89,92 @@ The work done $W$ is positive when the system expands against an external pressu
 </iframe>
 :::
 ::::
+
+---
+
+## Age Distribution
+
+::::{.columns}
+:::{.column width='40%'}
+### Demographics
+This histogram shows the spread of ages within the bigclass dataset, highlighting the most common age groups.
+:::
+
+:::{.column width='60%'}
+<iframe data-src='media/plots/hist_age.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
+
+---
+
+## Math Performance by Sex
+
+::::{.columns}
+:::{.column width='40%'}
+### Academics
+A comparison of average Math scores between male and female students.
+:::
+
+:::{.column width='60%'}
+<iframe data-src='media/plots/bar_math.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
+
+---
+
+## Weight Analysis
+
+::::{.columns}
+:::{.column width='40%'}
+### Physical Metrics
+Boxplot showing the distribution, median, and variance of weight across different genders.
+:::
+
+:::{.column width='60%'}
+<iframe data-src='media/plots/box_weight.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
+
+---
+
+## Height vs Weight
+
+::::{.columns}
+:::{.column width='40%'}
+### Correlation
+Exploring the relationship between height and weight, categorized by sex.
+:::
+
+:::{.column width='60%'}
+<iframe data-src='media/plots/scatter_hw.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
+
+---
+
+## Quality Control Chart
+
+::::{.columns}
+:::{.column width='40%'}
+### Process Stability
+Individual control chart (X-bar One) for Machine 1 at 303K and 100 Pressure.
+:::
+
+:::{.column width='60%'}
+<iframe data-src='media/plots/control_chart.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
+
+---
+
+## Key Statistics
+
+### Machine 1 Summary
+Filtered at Temp: 303, Pressure: 100
+
+
+- **Mean:** 51.0460
+- **Median:** 51.0911
+- **Std Dev:** 0.5839
+
+
